@@ -1,5 +1,5 @@
-const THREE=require('three');
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
+import * as THREE from 'three';
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 var container, controls, camera, renderer, scene, light,
     rotationSpeed = 0.1,
     clock = new THREE.Clock(),
