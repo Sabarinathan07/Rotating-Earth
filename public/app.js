@@ -1,4 +1,4 @@
-import * as THREE from 'three'
+const THREE=require('three');
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 var container, controls, camera, renderer, scene, light,
     rotationSpeed = 0.1,
