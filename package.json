@@ -2,7 +2,7 @@
   "name": "rotating-earth",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "type":"module",
     "start": "node app.js",
